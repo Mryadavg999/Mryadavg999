@@ -1,7 +1,8 @@
 ![logo](https://github.com/Mryadavg999/Mryadavg999/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Vishal Kumar Yadav</h1>
 <h3 align="center">🚀 MERN Stack Developer | Web Developer | Open Source Enthusiast 💡 Passionate about building scalable web applications and crafting clean, efficient code.</h3>
-<img align="right" alt"coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1JpeTFTIc-px3IeERWKGoP&ust=1739721511429000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjplOeFxosDFQAAAAAdAAAAABAE"
+<img align="right" alt"coding" width="400" src="https://github.com/user-attachments/assets/98c4f731-49fd-4779-9d32-4af7fb1e8927"
+"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mryadavg999&label=Profile%20views&color=0e75b6&style=flat" alt="mryadavg999" /> </p>
 
